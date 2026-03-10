@@ -92,3 +92,56 @@ const revealElementOnScroll = function () {
 window.addEventListener("scroll", revealElementOnScroll);
 
 window.addEventListener("load", revealElementOnScroll);
+
+function checkSymptoms(){
+
+const symptom = document.getElementById("symptomInput").value.toLowerCase();
+const result = document.getElementById("symptomResult");
+
+if(symptom === ""){
+result.innerHTML = "⚠️ Please enter your symptoms.";
+return;
+}
+
+if(symptom.includes("fever") || symptom.includes("cold") || symptom.includes("cough")){
+result.innerHTML =
+"🌡️ You may have a viral infection or flu.<br><br>" +
+"💡 Suggested Specialist: <b>Pulmonologist / General Physician</b><br>" +
+"📅 Recommendation: Book an appointment for proper diagnosis.";
+}
+
+else if(symptom.includes("headache") || symptom.includes("stress") || symptom.includes("anxiety") || symptom.includes("depression")){
+result.innerHTML =
+"🧠 These symptoms may be related to stress or mental health.<br><br>" +
+"💡 Suggested Specialist: <b>Psychiatrist</b><br>" +
+"🧘 Recommendation: Try relaxation and consult a mental health professional.";
+}
+
+else if(symptom.includes("bone") || symptom.includes("joint") || symptom.includes("back pain") || symptom.includes("injury")){
+result.innerHTML =
+"🦴 This may be related to bone or joint issues.<br><br>" +
+"💡 Suggested Specialist: <b>Orthopedic Doctor</b><br>" +
+"🏥 Recommendation: Consider consulting an orthopedic specialist.";
+}
+
+else if(symptom.includes("pregnancy") || symptom.includes("period") || symptom.includes("women health")){
+result.innerHTML =
+"👩 These symptoms are related to women's health.<br><br>" +
+"💡 Suggested Specialist: <b>Gynecologist</b><br>" +
+"📅 Recommendation: Schedule a women's health consultation.";
+}
+
+else if(symptom.includes("child") || symptom.includes("baby") || symptom.includes("child fever")){
+result.innerHTML =
+"👶 This symptom relates to child healthcare.<br><br>" +
+"💡 Suggested Specialist: <b>Pediatrician</b><br>" +
+"🩺 Recommendation: Visit a pediatric specialist.";
+}
+
+else{
+result.innerHTML =
+"🏥 We recommend consulting a doctor for proper diagnosis.<br><br>" +
+"💡 Use Healix to find trusted specialists near you.";
+}
+
+}

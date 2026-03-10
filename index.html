@@ -210,6 +210,53 @@
         </div>
       </section>
 
+      <!-- AI Symptom Checker -->
+
+<section class="section symptom-checker" aria-label="AI Symptom Checker">
+  <div class="container">
+
+    <p class="section-subtitle title-lg text-center">
+      Smart Health Tool
+    </p>
+
+    <h2 class="headline-md text-center">
+      AI Symptom Checker
+    </h2>
+
+    <p class="section-text text-center">
+      Describe your symptoms and receive quick health guidance along with suggested specialists from Healix.
+    </p>
+
+    <div style="text-align:center; margin-top:30px;">
+
+      <input 
+      type="text"
+      id="symptomInput"
+      placeholder="Example: fever, cough, headache"
+      class="input-field"
+      style="max-width:350px; padding:12px; border-radius:8px;">
+
+      <button 
+      onclick="checkSymptoms()"
+      class="btn has-before title-md"
+      style="margin-left:10px;">
+      Check Symptoms
+      </button>
+
+    </div>
+
+    <div 
+    id="symptomResult"
+    style="margin-top:25px; text-align:center; font-size:17px; font-weight:500;">
+    </div>
+
+    <p style="text-align:center; font-size:13px; color:gray; margin-top:10px;">
+      Healix AI provides general health guidance and does not replace professional medical advice.
+    </p>
+
+  </div>
+</section>
+
 
 
 
@@ -632,6 +679,8 @@
 
     </article>
   </main>
+
+
 
 
   <!-- 
