@@ -1,54 +1,49 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/doclab)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/doclab?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/doclab?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/xu_Cg3SCZX4?style=social)](https://youtu.be/xu_Cg3SCZX4)
+# Healix Smart Healthcare Website
 
-  <br />
-  <br />
+A simple and responsive healthcare website built using **HTML, CSS, and JavaScript**. The website provides users with information about healthcare services, doctors, and appointment booking. It is designed to be user-friendly and accessible across different devices such as desktops, tablets, and mobile phones.
 
-  <h2 align="center">Doclab - Hospital Website</h2>
+## Features
 
-  Doclab is a fully responsive hospital website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+* **Doctor Information:** Displays details about available doctors and healthcare services.
+* **Appointment Section:** Allows users to explore and book appointments easily.
+* **Responsive Design:** The website adjusts automatically to different screen sizes.
+* **Modern UI:** Clean and simple interface for better user experience.
+* **Navigation Menu:** Easy navigation between different sections of the website.
 
-  <a href="https://codewithsadee.github.io/doclab/"><strong>➥ Live Demo</strong></a>
+## How It Works
 
-</div>
+The website is built using basic front-end technologies. **HTML** is used to structure the web pages, **CSS** is used for styling and layout, and **JavaScript** is used to add interactivity and dynamic behavior. The layout is designed to be responsive so that it works smoothly on all devices.
 
-<br />
+## Technology Used
 
-### Demo Screeshots
+* **Languages:** HTML, CSS, JavaScript
+* **Design:** Responsive Web Design
 
-![Doclab Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+## Getting Started
 
 ### Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+To run this project, you need:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* A web browser (Google Chrome, Microsoft Edge, Firefox, etc.)
 
-### Run Locally
+### Running the Project
 
-To run **Doclab** locally, run this command on your git bash:
+Clone the repository (or download the project files) and navigate to the project folder.
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/doclab.git
+```
+git clone https://github.com/vinuthna-02/healix.git
 ```
 
-Windows:
+Then open the **index.html** file in your web browser.
 
-```bash
-git clone https://github.com/codewithsadee/doclab.git
-```
+## Example Sections of the Website
 
-### Contact
+* **Home:** Introduction to the Healix healthcare website.
+* **Services:** Information about healthcare services offered.
+* **Doctors:** Details about available doctors.
+* **Contact:** Contact information and support details.
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+## License
 
-### License
-
-This project is **free to use** and does not contains any license.
+This project is created for educational and learning purposes.

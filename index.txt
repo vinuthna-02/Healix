@@ -1,17 +1,21 @@
-Doclab - home
+Since your project is **Healix (not Doclab)**, you should change the **text content, alt tags, and footer details** to match your project. Below is the **edited version with the correct changes** you should make.
 
-This is a madical html template made by codewithsadee
+---
 
+# Healix – Smart Healthcare Website
 
+This is a **healthcare website template** designed to help users easily access medical services, find doctors, and book appointments online. The website is built using **HTML, CSS, and JavaScript** and is fully responsive for all devices.
 
-#---------- HEADER ----------#
+---
 
-alt = Doclab home
+# ---------- HEADER ----------
 
-alt = Doclab home
+alt = Healix home
 
-aria-label = clsoe menu
-<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+alt = Healix logo
+
+aria-label = close menu
+`<ion-icon name="close-outline" aria-hidden="true"></ion-icon>`
 
 Home
 Doctors
@@ -19,203 +23,218 @@ Services
 Blog
 Contact
 
-<ion-icon name="logo-twitter"></ion-icon>
-<ion-icon name="logo-facebook"></ion-icon>
-<ion-icon name="logo-pinterest"></ion-icon>
-<ion-icon name="logo-instagram"></ion-icon>
-<ion-icon name="logo-youtube"></ion-icon>
+`<ion-icon name="logo-twitter"></ion-icon>`
+`<ion-icon name="logo-facebook"></ion-icon>`
+`<ion-icon name="logo-pinterest"></ion-icon>`
+`<ion-icon name="logo-instagram"></ion-icon>`
+`<ion-icon name="logo-youtube"></ion-icon>`
 
 aria-label = open menu
-<ion-icon name="menu-outline"></ion-icon>
+`<ion-icon name="menu-outline"></ion-icon>`
 
-Make Appointment
+Book Appointment
 
+---
 
+# ---------- HERO ----------
 
-#---------- HERO ----------#
+Welcome To **Healix**
 
-Welcome To Doclab
+Find the Best
+Doctor Near You.
 
-Find Nearest
-Doctor.
-
-Search doctors. clinics. hospitals. etc.
+Search doctors, clinics, hospitals, and healthcare services.
 
 Locations
-<ion-icon name="location"></ion-icon>
+`<ion-icon name="location"></ion-icon>`
 
-<ion-icon name="search"></ion-icon>
+`<ion-icon name="search"></ion-icon>`
 Find Now
 
-alt = hero banner
+alt = Healix hero banner
 
+---
 
+# ---------- SERVICES ----------
 
-#---------- SERVICE ----------#
+alt = service icon
 
-alt = icon
+General Medicine
+Professional healthcare consultation and diagnosis.
 
-Psychiatry
-Lorem ipsum dolor sit amet, consectetur adipisicing
-
-aria-label = read more about psychiatry
-<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+aria-label = read more about general medicine
+`<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>`
 
 Gynecology
+Specialized care for women's health.
 
 Pulmonology
+Treatment for respiratory and lung diseases.
 
 Orthopedics
+Expert care for bones, joints, and muscles.
 
+---
 
+# ---------- ABOUT ----------
 
+About **Healix**
 
-#---------- ABOUT ----------#
+Experienced Healthcare Professionals
 
-About Us
-
-Experienced Workers
-
-Aliquam faucibus, odio nec commodo aliquam, neque felis placerat dui, a porta ante lectus dapibus est. Aliquam
+Healix is dedicated to providing accessible and reliable healthcare services through digital platforms, connecting patients with experienced medical professionals.
 
 Vision
 Mission
 Strategy
 
-Aliquam faucibus, odio nec commodo aliquam, neque felis placerat dui, a porta ante lectus dapibus est. Aliquam a bibendum mi, sed condimentum
+Our goal is to improve healthcare accessibility by providing modern digital solutions for patients and healthcare providers.
 
-<ion-icon name="checkmark-circle-outline"></ion-icon>
-Sonsectetur adipisicing elit
+`<ion-icon name="checkmark-circle-outline"></ion-icon>`
+Quality Healthcare Services
 
-Exercitation ullamco laboris
+`<ion-icon name="checkmark-circle-outline"></ion-icon>`
+Experienced Medical Professionals
 
-Eiusmod tempor incididunt
+`<ion-icon name="checkmark-circle-outline"></ion-icon>`
+Easy Appointment Booking
 
-Aolore magna aliqua
+`<ion-icon name="checkmark-circle-outline"></ion-icon>`
+Trusted Healthcare Platform
 
-alt = about banner
+alt = about Healix banner
 
+---
 
+# ---------- DOCTORS LISTING ----------
 
-#---------- LISTING ----------#
+Doctors Listing
+Browse by Specialization
 
-Doctors Listig
-Browse by specialist
-
-alt = icon
+alt = specialist icon
 
 Psychiatry
-Porta velit
+Mental health care and therapy
 
 Gynecology
-Mattis augue
+Women's healthcare services
 
 Pulmonology
-Mauris laoreet
+Respiratory and lung treatment
 
 Orthopedics
-Convallis vulputate
+Bone and joint care
 
 Pediatrics
-Posuere maecenas
+Child healthcare services
 
-Osteology
-Nisi nullam
+Neurology
+Brain and nervous system care
 
+---
 
+# ---------- BLOG ----------
 
-#---------- BLOG ----------#
+Health News & Articles
+Latest Health Updates
 
-News & Article
-Latest Articles
-
-<ion-icon name="person-outline"></ion-icon>
+`<ion-icon name="person-outline"></ion-icon>`
 By Admin
 
-<ion-icon name="folder-outline"></ion-icon>
-Specialist
+`<ion-icon name="folder-outline"></ion-icon>`
+Healthcare
 
-Could intermittent fasting reduce breast cancer
+Benefits of Regular Health Checkups
 
-28 January, 2022
+28 January, 2026
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat
+Regular health checkups help in early detection of diseases and maintaining overall health and wellness.
 
 Read More
 
+Healthy Diet Tips for Better Immunity
 
-Give children more autonomy during the pandemic
+How Lifestyle Habits Affect Heart Health
 
-How do binge eating and drinking impact the liver?
+---
 
+# ---------- FOOTER ----------
 
+alt = Healix logo
 
-#---------- FOOTER ----------#
+`<ion-icon name="mail-open-outline"></ion-icon>`
 
-alt = Doclab home
-
-<ion-icon name="mail-open-outline"></ion-icon>
 Main Email :
-contact@website.com
+[support@healix.com](mailto:support@healix.com)
 
 Inquiries :
-Info@mail.com
+[info@healix.com](mailto:info@healix.com)
 
-<ion-icon name="call-outline"></ion-icon>
+`<ion-icon name="call-outline"></ion-icon>`
 
 Office Telephone :
-0029129102320
++91 9876543210
 
 Mobile :
-000 2324 39493
++91 9876543211
 
-About Us
+---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+About Healix
 
-<ion-icon name="map-outline"></ion-icon>
+Healix is a smart healthcare platform designed to help patients find doctors, book appointments, and access healthcare information easily.
 
-2416 Mapleview Drive
-Tampa, FL 33634
+`<ion-icon name="map-outline"></ion-icon>`
+
+123 Healthcare Street
+Hyderabad, India
+
+---
 
 Services
 
-Conditions
-Listing
-How It Works
-What We Offer
-Latest News
+Doctor Consultation
+Appointment Booking
+Healthcare Services
+Medical Advice
+Health Articles
 Contact Us
+
+---
 
 Useful Links
 
-Conditions
+Privacy Policy
 Terms of Use
 Our Services
 Join as a Doctor
-New Guests List
-The Team List
+Our Team
+Support
+
+---
 
 Subscribe
 
 placeholder = Email
 
-Subscribe 
+Subscribe
 
-Get the latest updates via email. Any time you may unsubscribe
+Get the latest healthcare updates via email.
 
-&copy; Doclab 2022 | All Rights Reserved by codewithsadee
+© Healix 2026 | All Rights Reserved
 
-<ion-icon name="logo-facebook"></ion-icon>
-<ion-icon name="logo-twitter"></ion-icon>
-<ion-icon name="logo-google"></ion-icon>
-<ion-icon name="logo-linkedin"></ion-icon>
-<ion-icon name="logo-pinterest"></ion-icon>
+`<ion-icon name="logo-facebook"></ion-icon>`
+`<ion-icon name="logo-twitter"></ion-icon>`
+`<ion-icon name="logo-google"></ion-icon>`
+`<ion-icon name="logo-linkedin"></ion-icon>`
+`<ion-icon name="logo-pinterest"></ion-icon>`
 
+---
 
-
-#---------- BACK TO TOP ----------#
+# ---------- BACK TO TOP ----------
 
 aria-label = back to top
 
-<ion-icon name="chevron-up"></ion-icon>
+`<ion-icon name="chevron-up"></ion-icon>`
+
+---
