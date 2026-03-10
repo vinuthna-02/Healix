@@ -6,6 +6,7 @@ A simple and responsive healthcare website built using **HTML, CSS, and JavaScri
 
 * **Doctor Information:** Displays details about available doctors and healthcare services.
 * **Appointment Section:** Allows users to explore and book appointments easily.
+* **AI Symptom Checker:** Provides basic health guidance based on user symptoms.
 * **Responsive Design:** The website adjusts automatically to different screen sizes.
 * **Modern UI:** Clean and simple interface for better user experience.
 * **Navigation Menu:** Easy navigation between different sections of the website.
